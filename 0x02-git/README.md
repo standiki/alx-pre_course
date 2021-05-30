@@ -1,1 +1,1 @@
-##### Project files container #####
+##### ALX pre_courses projects #####
