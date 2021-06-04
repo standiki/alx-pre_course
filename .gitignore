@@ -1,3 +1,0 @@
-#Ignore all files ending with tilde (~)
-$ cat .gitignore
-*~
