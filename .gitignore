@@ -1,0 +1,3 @@
+#Adding rule to ignore all files ending with the tile (~)
+$ cat .gitignore
+*~
